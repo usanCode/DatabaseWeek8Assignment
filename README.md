@@ -5,27 +5,21 @@
 
 **Objective:**
 
-Design and implement a full-featured database using only MySQL.
+The objective of this work is to design and implement a full-featured database using only MySQL.
 
-What to do:
+For that I have chosen to create a database which reflect my experience of learning the database module as a PLP scholarchip's recipient or learner. 
 
-Choose a real-world use case (e.g., Library Management, Student Records, Clinic Booking System, Inventory Tracking, etc.)
+That database will be entitled **"PLP_Scholarship_Academy_Database".**
 
-Create a well-structured relational database using SQL.
+## Structure of the database
 
-Use SQL to create:
+The "PLP_Scholarship_Academy_Database"
+ has three tables:
+  "*"students"*" table
+ "*"modules"*" table concerning the modules to be learned
+ "*"enrollement "*"table.
 
-Tables with proper constraints (PK, FK, NOT NULL, UNIQUE)
-
-Relationships (1-1, 1-M, M-M where needed)
-
-Deliverables:
-
-A single .sql file containing your:
-
-CREATE TABLE statements
-
-Sample  data
+ A [drawing](C:\Users\HP\Desktop\week8DatabaseAssignemnt\DatabaseWeek8Assignment\plp_scholarship_academy_database_relationships.png) or schema  showcasing the relationships that exist between these tables is also inculded.
 
 
 
